@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I'm a passionate 4th sem student learning and exploring new things currently :)
+I'm a passionate 4th sem Computer Engineering student learning and exploring new things currently :)
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me: **notrealdev2211@gmail.com**
