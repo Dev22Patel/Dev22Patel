@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 I'm a passionate 4th sem Computer Engineering student learning and exploring new things currently :)
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter,React,.Net**
 
 - 📫 How to reach me: **notrealdev2211@gmail.com**
 
