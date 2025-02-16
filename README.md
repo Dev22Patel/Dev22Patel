@@ -9,6 +9,8 @@ I'm a passionate 4th sem Computer Engineering student learning and exploring new
 
 - 📫 How to reach me: **notrealdev2211@gmail.com**
 
+"In case of fire: git commit, git push, leave building" 🧯
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/your-profile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
