@@ -1,39 +1,158 @@
-<h1 align="left">## नमस्ते (Namaste), I am Dev Patel</h1>
+# <div align="center">🚀 Dev Patel | Full Stack Developer & DevOps Enthusiast 🚀</div>
 
-###
+<br/>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0B6EFD&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Web+Developer+@GDSC+DDU;Former+Tech+Lead+@DY+HACKS+4.0;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
+
+## <div align="center">💫 _"In case of fire: git commit, git push, leave building 🧯"_</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/connect_with_me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:notrealdev2211@gmail.com">
+    <img src="https://img.shields.io/badge/email_me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/your-profile">
+    <img src="https://img.shields.io/badge/follow_me-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+Namaste! 🙏 I'm a passionate 6th semester Computer Engineering student with a love for building robust and scalable applications. Currently exploring the fascinating worlds of Machine Learning, Spring Boot, and DevOps practices.
+
+- 🔭 I'm currently working on **enhancing my full-stack development skills**
+- 👨‍💻 Web Developer **@GDSC DDU** (Google Developer Student Clubs)
+- 🚀 Former Tech Lead **@DY HACKS 4.0**
+- 🌱 I'm exploring **ML, Spring Boot, and DevOps technologies**
+- 💬 Ask me about **React, Spring, or DevOps practices**
+- 📫 Reach me at: **notrealdev2211@gmail.com**
+- ⚡ Fun fact: **I debug with print statements but tell everyone I use a debugger**
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack 
+
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,c" />
+  </a>
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,spring,express,nodejs,django,dotnet,tailwind,bootstrap" />
+  </a>
+</p>
+
+### Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  </a>
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vite,figma" />
+  </a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/Dev22Patel">
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev22Patel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Dev22Patel">
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev22Patel&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/your-username">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="your-username's streak" />
+  </a>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Competitive Coding
+
+<p align="center">
+  <a href="https://leetcode.com/22ceuos151/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/22ceuoqgc8">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
+  </a>
+  <a href="https://www.codechef.com/users/your-username">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px"> Current Learning Path
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/></td>
+      <td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></td>
+      <td><img src="https://img.shields.io/badge/DevOps-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="DevOps"/></td>
+    </tr>
+    <tr>
+      <td>📊 Data Analysis</td>
+      <td>🔄 Microservices</td>
+      <td>🚀 CI/CD Pipelines</td>
+    </tr>
+    <tr>
+      <td>🤖 Model Training</td>
+      <td>🛠️ RESTful APIs</td>
+      <td>🐳 Containerization</td>
+    </tr>
+    <tr>
+      <td>🧮 Algorithms</td>
+      <td>🔒 Security</td>
+      <td>☁️ Cloud Services</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> Recent Projects
+
+<div align="center">
+  <a href="[https://github.com/your-username/project1](https://github.com/Dev22Patel/SmartTripPlanner)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev22Patel&repo=SmartTripPlanner&theme=tokyonight" />
+  </a>
+  <a href="[https://github.com/your-username/project2](https://github.com/Dev22Patel/LendGuardAI)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev22Patel&repo=LendGuardAI&theme=tokyonight" />
+  </a>
+</div>
+
+---
 
 
-## 🚀 About Me
-I'm a passionate 4th sem Computer Engineering student learning and exploring new things currently :)
-- 🌱 I’m currently learning **Flutter,React,.Net**
+<div align="center">
+  <a href="https://github.com/Dev22Patel">
+    <img src="https://github.com/Dev22Patel/Dev22Patel/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+  </a>
+</div>
 
-- 📫 How to reach me: **notrealdev2211@gmail.com**
-
-"In case of fire: git commit, git push, leave building" 🧯
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/your-profile)
-
-## 🧑‍💻 Competitive Coding Platforms Profile:
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/your-username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/22ceuos151/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/22ceuoqgc8)
-
-## 🛠️ Languages and Tools:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
