@@ -1,151 +1,232 @@
-# <div align="center">🚀 Dev Patel | Full Stack Developer & DevOps Enthusiast 🚀</div>
-
-<br/>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0B6EFD&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Web+Developer+@GDSC+DDU;Former+Tech+Lead+@DU+HACKS+4.0;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
-
+  <h1>Dev Patel</h1>
+  <h3>Crafting Digital Experiences</h3>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" style="max-width: 100%;" alt="Welcome to my GitHub Profile" />
 </div>
 
-## <div align="center">💫 _"In case of fire: git commit, git push, leave building 🧯"_</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2D9EF5&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8C%8C+DevOps+Enthusiast;%F0%9F%94%AF+Problem+Solver;%F0%9F%94%A5+Continuous+Learner" alt="Dev's Roles" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/connect_with_me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:notrealdev2211@gmail.com">
-    <img src="https://img.shields.io/badge/email_me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/your-profile">
-    <img src="https://img.shields.io/badge/follow_me-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-
-Namaste! 🙏 I'm a passionate 6th semester Computer Engineering student with a love for building robust and scalable applications. Currently exploring the fascinating worlds of Machine Learning, Spring Boot, and DevOps practices.
-
-- 🔭 I'm currently working on **enhancing my full-stack development skills**
-- 👨‍💻 Web Developer **@GDSC DDU** (Google Developer Student Clubs)
-- 🚀 Former Tech Lead **@DY HACKS 4.0**
-- 🌱 I'm exploring **ML, Spring Boot, and DevOps technologies**
-- 💬 Ask me about **React, Spring, or DevOps practices**
-- 📫 Reach me at: **notrealdev2211@gmail.com**
-- ⚡ Fun fact: **I debug with print statements but tell everyone I use a debugger**
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack 
-
-### Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,c" />
-  </a>
-</p>
-
-### Frameworks & Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring,express,nodejs,django,dotnet,tailwind,bootstrap" />
-  </a>
-</p>
-
-### Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-  </a>
-</p>
-
-### DevOps & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vite,figma" />
-  </a>
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/Dev22Patel">
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev22Patel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Dev22Patel">
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev22Patel&layout=compact&langs_count=7&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/your-username">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev22Patel&theme=tokyonight&hide_border=true" alt="your-username's streak" />
-  </a>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Competitive Coding
-
-<p align="center">
   <a href="https://leetcode.com/22ceuos151/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/22ceuoqgc8">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
-  </a>
-  <a href="https://www.codechef.com/users/your-username">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
----
+<hr>
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px"> Current Learning Path
+<table>
+  <tr>
+    <td width="50%">
+      <h2 align="center">💫 Who Am I</h2>
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="320" />
+      </p>
+      <p align="center">Namaste 🙏 I'm Dev Patel, a 6th semester Computer Engineering student passionate about creating scalable applications and exploring cutting-edge technologies.</p>
+      <p align="center"><strong>🌟 Web Developer @ GDSC DDU</strong></p>
+      <p align="center"><strong>🏆 Former Tech Lead @ DU HACKS 4.0</strong></p>
+      <p align="center"><i>"In case of fire: git commit, git push, leave building 🧯"</i></p>
+    </td>
+    <td width="50%">
+      <h2 align="center">🚀 Current Focus</h2>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev22Patel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="390" />
+      </div>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Machine_Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+        <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /><br>
+        <img src="https://img.shields.io/badge/DevOps-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<div align="center">
+  <details open>
+    <summary><h2>🛠️ Tech Arsenal</h2></summary>
+    <br>
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java" /><br>
+          <sub><b>Java</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript" /><br>
+          <sub><b>JavaScript</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React" /><br>
+          <sub><b>React</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring" /><br>
+          <sub><b>Spring</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js" /><br>
+          <sub><b>Node.js</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express" /><br>
+          <sub><b>Express</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt=".NET" /><br>
+          <sub><b>.NET</b></sub>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB" /><br>
+          <sub><b>MongoDB</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL" /><br>
+          <sub><b>MySQL</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="PostgreSQL" /><br>
+          <sub><b>PostgreSQL</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker" /><br>
+          <sub><b>Docker</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Kubernetes" /><br>
+          <sub><b>Kubernetes</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS" /><br>
+          <sub><b>AWS</b></sub>
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git" /><br>
+          <sub><b>Git</b></sub>
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+<hr>
+
+<h2 align="center">📊 GitHub Journey</h2>
+
+<div align="center">
+  <a href="https://github.com/Dev22Patel">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dev22Patel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Dev22Patel">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev22Patel&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Dev22Patel">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dev22Patel&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5" alt="Trophy" />
+  </a>
+</div>
+
+<hr>
+
+<h2 align="center">🌟 Featured Project</h2>
+
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/></td>
-      <td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></td>
-      <td><img src="https://img.shields.io/badge/DevOps-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="DevOps"/></td>
-    </tr>
-    <tr>
-      <td>📊 Data Analysis</td>
-      <td>🔄 Microservices</td>
-      <td>🚀 CI/CD Pipelines</td>
-    </tr>
-    <tr>
-      <td>🤖 Model Training</td>
-      <td>🛠️ RESTful APIs</td>
-      <td>🐳 Containerization</td>
-    </tr>
-    <tr>
-      <td>🧮 Algorithms</td>
-      <td>🔒 Security</td>
-      <td>☁️ Cloud Services</td>
+      <td width="50%">
+        <h3 align="center">Smart Trip Planner</h3>
+        <p align="center">
+          <a href="https://github.com/Dev22Patel/SmartTripPlanner">
+            <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400" alt="Smart Trip Planner" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/Dev22Patel/SmartTripPlanner">
+            <img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="#">
+            <img src="https://img.shields.io/badge/Live-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p align="center">An intelligent travel planning application that uses AI to create personalized itineraries.</p>
+      </td>
+      
     </tr>
   </table>
 </div>
 
----
+<hr>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> Recent Projects
+<h2 align="center">🧠 Learning Roadmap</h2>
 
 <div align="center">
-  <a href="[https://github.com/your-username/project1](https://github.com/Dev22Patel/SmartTripPlanner)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev22Patel&repo=SmartTripPlanner&theme=tokyonight" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" /><br>
+        <div align="left">
+          <ul>
+            <li>Advanced NLP techniques</li>
+            <li>Computer vision models</li>
+            <li>Predictive analytics</li>
+          </ul>
+        </div>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /><br>
+        <div align="left">
+          <ul>
+            <li>Microservices architecture</li>
+            <li>Spring Security</li>
+            <li>API Gateway implementation</li>
+          </ul>
+        </div>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" /><br>
+        <div align="left">
+          <ul>
+            <li>Infrastructure as Code</li>
+            <li>Cloud-native applications</li>
+            <li>CI/CD pipeline optimization</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+<h2 align="center">📇 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://github.com/your-username/project2](https://github.com/Dev22Patel/LendGuardAI)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev22Patel&repo=LendGuardAI&theme=tokyonight" />
+  <a href="mailto:notrealdev2211@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/your-profile">
+    <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
----
+<hr>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-</div>
+
