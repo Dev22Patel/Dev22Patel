@@ -165,47 +165,25 @@
         </p>
         <p align="center">An intelligent travel planning application that uses AI to create personalized itineraries.</p>
       </td>
-      
     </tr>
   </table>
 </div>
 
 <hr>
 
-<h2 align="center">🧠 Learning Roadmap</h2>
+<h2 align="center">🧠 Currently Focusing</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" /><br>
-        <div align="left">
-          <ul>
-            <li>Advanced NLP techniques</li>
-            <li>Computer vision models</li>
-            <li>Predictive analytics</li>
-          </ul>
-        </div>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /><br>
-        <div align="left">
-          <ul>
-            <li>Microservices architecture</li>
-            <li>Spring Security</li>
-            <li>API Gateway implementation</li>
-          </ul>
-        </div>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" /><br>
-        <div align="left">
-          <ul>
-            <li>Infrastructure as Code</li>
-            <li>Cloud-native applications</li>
-            <li>CI/CD pipeline optimization</li>
-          </ul>
-        </div>
       </td>
     </tr>
   </table>
