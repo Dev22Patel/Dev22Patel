@@ -83,7 +83,7 @@ Namaste! 🙏 I'm a passionate 6th semester Computer Engineering student with a 
 
 <div align="center">
   <a href="https://github.com/your-username">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="your-username's streak" />
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev22Patel&theme=tokyonight&hide_border=true" alt="your-username's streak" />
   </a>
 </div>
 
