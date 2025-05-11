@@ -146,13 +146,6 @@ Namaste! 🙏 I'm a passionate 6th semester Computer Engineering student with a 
 
 ---
 
-
-<div align="center">
-  <a href="https://github.com/Dev22Patel">
-    <img src="https://github.com/Dev22Patel/Dev22Patel/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
