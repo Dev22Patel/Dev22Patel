@@ -124,24 +124,6 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Journey</h2>
-
-<div align="center">
-  <a href="https://github.com/Dev22Patel">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dev22Patel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Dev22Patel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev22Patel&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Dev22Patel">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dev22Patel&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5" alt="Trophy" />
-  </a>
-</div>
-
-<hr>
 
 <h2 align="center">🌟 Featured Project</h2>
 
@@ -169,26 +151,5 @@
   </table>
 </div>
 
-<hr>
-
-<h2 align="center">🧠 Currently Focusing</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" /><br>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /><br>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" /><br>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr>
 
 
